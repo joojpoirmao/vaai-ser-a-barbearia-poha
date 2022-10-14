@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+
+header{
+    padding: 30px;
+    background-color: rgb(160, 145, 145);
+  }
+  
+  
+  .header-logo{
+    position: absolute;
+  }
+  
+  a{
+    text-decoration: none;
+    color: black;
+    font-size: 24px;
+  }
+  
+  .Display-inline{
+    display: inline;
+  }
+  
+  #logo-position{
+    top: 15px;
+    left: 15px;
+    width: 50px;
+    height: 50px;
+  }
+  
+  .Position-Itens{
+    text-align: end;
+    top: 15px;
+  }
+  
+  .Titulo{
+    position: absolute;
+    left: 600px;
+    font-size: 24px;
+  }
+
+  .display-caralho{
+    display: block;
+  }
+  
+  #video{
+    top: 100px;
+    left: 15px;
+  }
+
+  .Maps{
+    top: 100px;
+    left: 15px;
+    width: 200px;
+    height: 200px;
+  }
+
+  .beneficios{
+   top: 20px;
+   left: 15px;
+   width: 500px;
+   height: 200px;
+  }
+
+  .utensilios{
+    top: 20px;
+    left: 15px;
+    width: 500px;
+    height: 200px;
+  }
+
+  footer{
+    text-align: center ;
+     background-image: url(../img/bg.jpg);
+     padding: 40px 0;
+  }
